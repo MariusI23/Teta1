@@ -16,6 +16,8 @@ public:
 
 int main ()
 {
+    cout<<"Adaugare de: alexstefan95";
+    cout<<"Adaugare de: sabinna mihaila";
   A foo;
   B bar = foo;    // calls constructor
   bar = foo;      // calls assignment
